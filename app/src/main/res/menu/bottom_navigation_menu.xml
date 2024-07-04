@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_watchlist"
+        android:title="WatchList"
+        android:icon="@drawable/icon_watchlist"/>
+    <item
+        android:id="@+id/ic_orders"
+        android:title="Orders"
+        android:icon="@drawable/icon_orders"/>
+    <item
+        android:id="@+id/ic_portfolio"
+        android:title="Portfolio"
+        android:icon="@drawable/icon_portfolio"/>
+    <item
+        android:id="@+id/ic_funds"
+        android:title="Funds"
+        android:icon="@drawable/icon_funds"/>
+    <item
+        android:id="@+id/ic_interest"
+        android:title="Interest"
+        android:icon="@drawable/icon_interest"/>
+
+</menu>
